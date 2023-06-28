@@ -1,0 +1,78 @@
+[
+  {
+    "id": "317ed42f-c31f-49ad-b97f-a89aee65b1d6",
+    "email": "danieljegede65@gmail.com",
+    "password": "$2b$17$WXFJhH5R9rK3EUfJ9G7SreXSeOUFlM37U0hYLTAUcmbJa9qvE39ti",
+    "createdAt": "2023-06-19T21:38:29.883Z",
+    "updatedAt": "2023-06-19T21:38:29.883Z"
+  },
+  {
+    "id": "a8d60214-4b4d-4d5c-a7f0-800d0d33dca8",
+    "email": "danieljegede465@gmail.com",
+    "password": "$2b$17$ualNT4lvC0mihl49ZpMhneDVGrExU4REVvGeszbhiT.g4jmJviqk.",
+    "createdAt": "2023-06-19T22:50:41.810Z",
+    "updatedAt": "2023-06-19T22:50:41.810Z"
+  },
+  {
+    "id": "23e86f32-7f3e-4cb6-8002-6a8bbae4358f",
+    "email": "danieljegede46576@gmail.com",
+    "password": "$2b$17$/eXqFoZhzP9WpwZhW858WeljT.SZ3cR7Gsu6avPpMV/MVBTxVtZqW",
+    "createdAt": "2023-06-19T23:04:33.003Z",
+    "updatedAt": "2023-06-19T23:04:33.003Z"
+  },
+  {
+    "id": "5d11c174-0c03-449e-8229-8a9472ba71dd",
+    "email": "danieljegede4657644@gmail.com",
+    "password": "$2b$17$ocP2ja/GqMqxQbwC1YPlyO1YVmGJaXOWmKrNyK5RIS.FwppkSSQjy",
+    "createdAt": "2023-06-19T23:08:57.620Z",
+    "updatedAt": "2023-06-19T23:08:57.620Z"
+  },
+  {
+    "id": "1b7c5c7a-0bdc-4e80-8a36-523e49342a5a",
+    "email": "danieljegede46576454@gmail.com",
+    "userName": "Dallat",
+    "password": "$2b$17$tT67Los5XhkPdonqWYhKY.4EYO1I/FyUsw/sMxS1lXd0OyFL5OuPG",
+    "createdAt": "2023-06-19T23:10:47.529Z",
+    "updatedAt": "2023-06-19T23:10:47.529Z"
+  },
+  {
+    "id": "d94d4f3a-05be-4966-8e51-970ff9436851",
+    "email": "danieljegede465786454@gmail.com",
+    "userName": "Dallat1",
+    "password": "$2b$17$xy5MlxMSzpstYyLZn/1Jg.0460UFjyQkB8TfIon01B8j6Qpl8SKm6",
+    "createdAt": "2023-06-19T23:11:48.674Z",
+    "updatedAt": "2023-06-19T23:11:48.674Z"
+  },
+  {
+    "id": "7af29b90-0e68-457c-8c4c-9f94c2de04a2",
+    "email": "danieljegede465786454@gmail654.com",
+    "userName": "Dal432",
+    "password": "$2b$17$1dO710XfA0TIdF/x87vCGOshyznQDJmRyLxHT5pvQitQib8VBZm3S",
+    "createdAt": "2023-06-22T23:34:43.866Z",
+    "updatedAt": "2023-06-22T23:34:43.866Z"
+  },
+  {
+    "id": "d57f675d-517d-4f4d-baa1-16b24316c366",
+    "email": "danieljegede465786454@gmail1112.com",
+    "userName": "Dal43256",
+    "password": "$2b$17$7UJ0pAMPDTBLAYpS4dxotOwW1MIFhfJW31lRn6s0HU0T45KpoczqG",
+    "createdAt": "2023-06-22T23:35:33.996Z",
+    "updatedAt": "2023-06-22T23:35:33.996Z"
+  },
+  {
+    "id": "333afe83-128c-4b63-90f4-70552a6fdc30",
+    "email": "danieljegede465786454@gmai.com",
+    "userName": "Goodluck",
+    "password": "$2b$17$dIL78ILdPxPsTUFvanEOzOVlpTvCB7KF/7CS3gE.4Hi4aH8cqJTIC",
+    "createdAt": "2023-06-24T17:25:37.312Z",
+    "updatedAt": "2023-06-24T17:25:37.312Z"
+  },
+  {
+    "id": "dca1316b-89ec-492c-8bad-59b3feb6ba7e",
+    "email": "danieljegede465566786454@gmail.com",
+    "userName": "Goodluck444",
+    "password": "$2b$17$5.nvGagw8JdqEgrzN9Pnf.nq.GfgR3JQolm9Vf.fRAgibVzrQsyCy",
+    "createdAt": "2023-06-24T17:26:19.301Z",
+    "updatedAt": "2023-06-24T17:26:19.301Z"
+  }
+]

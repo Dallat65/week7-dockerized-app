@@ -1,7 +1,6 @@
 # week-7-task-node
 
 # Task
-
 ## Requirements
 -  Containerize your week 6 application
 -  Make sure all features are working properly.
